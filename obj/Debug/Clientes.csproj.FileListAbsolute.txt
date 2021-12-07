@@ -1,0 +1,13 @@
+C:\Users\Alan\source\repos\Clientes\bin\Debug\Clientes.exe.config
+C:\Users\Alan\source\repos\Clientes\bin\Debug\Clientes.exe
+C:\Users\Alan\source\repos\Clientes\bin\Debug\Clientes.pdb
+C:\Users\Alan\source\repos\Clientes\obj\Debug\Clientes.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Clientes\obj\Debug\Clientes.Form1.resources
+C:\Users\Alan\source\repos\Clientes\obj\Debug\Clientes.Properties.Resources.resources
+C:\Users\Alan\source\repos\Clientes\obj\Debug\Clientes.csproj.GenerateResource.cache
+C:\Users\Alan\source\repos\Clientes\obj\Debug\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Clientes\obj\Debug\Clientes.exe
+C:\Users\Alan\source\repos\Clientes\obj\Debug\Clientes.pdb
+C:\Users\Alan\source\repos\Clientes\obj\Debug\Clientes.Novo.resources
+C:\Users\Alan\source\repos\Clientes\obj\Debug\Clientes.Add.resources
+C:\Users\Alan\source\repos\Clientes\obj\Debug\Clientes.Alterar.resources
